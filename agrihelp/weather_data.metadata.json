@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"d16c7df3b07244ffbd709d66446cf999","collectionName":"weather_data","type":"collection"}
